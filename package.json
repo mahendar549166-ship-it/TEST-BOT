@@ -1,34 +1,34 @@
 {
-  "name": "ARIF-BABU",
-  "version": "10.1.1",
-  "description": "MADE BY ARIF BABU 🥀",
-  "main": "ARIF-BABU.js",
-  "engines": {
-      "node": "20.x",
-      "npm": "10.0.0"
-  },
-  "scripts": {
-      "start": "node index.js",
-      "login": "node login",
-      "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
-  },
-  "repository": {
-      "type": "git",
-      "url": "https://github.com/arif-11/arif-bot/issues"
-  },
-  "keywords": [
-      "bot",
-      "facebook",
-      "project",
-      "messenger",
-      "javasvript",
-      "arif",
-      "prince",
-      "mental"
-  ],
-  "author": "ARIF-BABU 🥀",
-  "license": "GPL-3.0",
-  "bugs": {
+                "name": "UZAIR-RAJPUT",
+                "version": "10.1.1",
+                "description": "𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 𝐁𝐎𝐓  𝐌𝐀𝐃𝐄 𝐁𝐘 𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿 💚✨",
+                "main": "𝑴𝒓𝑼𝒛𝒂𝒊𝒓𝑿𝒙𝑿-𝑴𝑻𝑿.js",
+                "engines": {
+                                "node": "20.x",
+                                "npm": "10.0.0"
+                },
+                "scripts": {
+                                "start": "node index.js",
+                                "login": "node login",
+                                "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+                },
+                "repository": {
+                                "type": "git",
+                                "url": "https://github.com/uzairmtx/kiranuzair/issues"
+                },
+                "keywords": [
+                                "bot",
+                                "facebook",
+                                "projectuzair",
+                                "messenger",
+                                "javasvript",
+                                "UZAIR-RAJPUT",
+                                "uzairladla",
+                                "uzairmtx"
+                ],
+                "author": "UZAIRMTX",
+                "license": "GPL-3.0",
+                "bugs": {
                                 "url": "https://github.com/uzairmtx/kiranuzair/issues"
                 },
                 "homepage": "https://github.com/uzairmtx/kiranuzair/issues",
